@@ -38,18 +38,18 @@ button_text_color:
   default: "#000"
 main_text:
   type: string
-  default: "This website uses cookies to ensure you get the best experience on our website."
+  default: "Diese Webseite verwendet Cookies um eine best mögliche Erfahrung auf unserer Webseite zu ermöglichen."
 dismiss_button_text:
   type: string
-  default: "Got it!"
+  default: "OK, Verstanden!"
 policy_link_text:
   type: string
-  default: "Learn more"
+  default: "mehr Informationen"
   description: 
     en: 'The link text of a cookie policy or cookie education page'
 policy_link_url:
   type: string
-  default: "https://cookiesandyou.com/"
+  default: "https://de.loopercommunity.org/page/cookies/2/"
   description: 
     en: 'The url of a cookie policy or cookie education page'
 policy_link_target:
